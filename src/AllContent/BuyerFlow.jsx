@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 //import "./images/likeImg.png";
@@ -184,7 +185,7 @@ const Buyer = () => {
   };
 
   const handleLogout = () => {
-    navigate("/login");
+    navigate("/index.html");
   };
 
   const filteredProperties = properties.filter((property) => {
