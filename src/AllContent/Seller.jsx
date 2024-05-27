@@ -57,7 +57,7 @@ const Seller = () => {
   };
 
   const handleLogout = () => {
-    navigate("/login");
+    navigate("/index.html");
   };
 
   return (
