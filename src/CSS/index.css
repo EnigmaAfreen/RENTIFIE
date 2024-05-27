@@ -1,0 +1,427 @@
+/* .download1-1-icon {
+  position: absolute;
+  top: 191px;
+  left: 134px;
+  width: 1166px;
+  height: 552px;
+  object-fit: cover;
+}
+.component-10-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.component-10-item {
+  position: absolute;
+  height: 70.63%;
+  width: 70.79%;
+  top: 14.58%;
+  right: 29.21%;
+  bottom: 14.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.component-10 {
+  position: absolute;
+  top: 695px;
+  left: 1310px;
+
+  box-sizing: border-box;
+  width: 40px;
+  height: 48.8px;
+}
+.component-11-icon {
+  position: absolute;
+  top: 681px;
+  left: 91px;
+  width: 40.6px;
+  height: 48.8px;
+  object-fit: contain;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 775px;
+  left: 131px;
+  background-color: #e1db3d;
+  width: 1164px;
+  height: 247px;
+}
+.cultfit,
+.welcome-to {
+  font-weight: 500;
+}
+.cultfit {
+  font-family: var(--font-inknut-antiqua);
+}
+.welcome-to-cultfit-container {
+  position: absolute;
+  top: 876px;
+  left: 232px;
+  font-size: 100px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  display: inline-block;
+  width: 1078px;
+  height: 58px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: var(--font-inter);
+}
+.desktop-1-inner,
+.desktop-1-item {
+  position: absolute;
+  top: 25px;
+  left: 22px;
+  background-color: #d9d9d9;
+  width: 1px;
+  height: 30px;
+}
+.desktop-1-inner {
+  left: -182px;
+  background-color: #282323;
+  width: 1639px;
+  height: 148px;
+}
+.home,
+.home1,
+.home2 {
+  position: absolute;
+  top: 62px;
+  left: 670px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 143px;
+  height: 32px;
+}
+.home1,
+.home2 {
+  left: 796px;
+  width: 133px;
+}
+.home2 {
+  left: 936px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1048px;
+  left: 139px;
+  background-color: #fbfbf7;
+  width: 829px;
+  height: 644px;
+}
+
+.download1-11-icon {
+  position: absolute;
+  top: 1048px;
+  left: 146px;
+  width: 830px;
+  height: 481px;
+  object-fit: cover;
+}
+.client {
+  margin: 0;
+}
+.testimonials {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.client-testimonials {
+  position: absolute;
+  top: 1105px;
+  left: 996px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  display: inline-block;
+  width: 318px;
+  height: 91px;
+}
+.download1-10-icon,
+.download1-7-icon {
+  position: absolute;
+  top: 1280px;
+  left: 987px;
+  width: 141px;
+  height: 138px;
+  object-fit: cover;
+}
+.download1-7-icon {
+  top: 1425px;
+  left: 1114px;
+  width: 179px;
+  height: 191px;
+}
+.amazing-place-to {
+  position: absolute;
+  top: 1321px;
+  left: 1139px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  display: inline-block;
+  width: 137px;
+  height: 62px;
+}
+.download1-12-icon,
+.download1-15-icon {
+  position: absolute;
+  top: 1653px;
+  left: 1000px;
+  width: 138px;
+  height: 190px;
+  object-fit: cover;
+}
+.download1-15-icon {
+  top: 1894px;
+  left: 999px;
+  width: 271px;
+  height: 195px;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 1692px;
+  left: 160px;
+  background-color: #b1aea3;
+  width: 808px;
+  height: 558px;
+}
+.register-free-for-container,
+.who-are-the-container {
+  position: absolute;
+  line-height: 150%;
+  display: inline-block;
+  width: 300.4px;
+}
+.register-free-for-container {
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  height: 58.6px;
+}
+.who-are-the-container {
+  top: 86px;
+  left: 1px;
+  letter-spacing: -0.02em;
+  font-family: var(--font-inter);
+  height: 175.7px;
+}
+.register-free-for-zumba-classe-parent {
+  position: absolute;
+  top: 1781px;
+  left: 632px;
+  width: 301.4px;
+  height: 261.7px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-merriweather);
+}
+.star-icon {
+  position: absolute;
+  top: 1630.9px;
+  left: 98px;
+  width: 560px;
+  height: 678.5px;
+  object-fit: contain;
+}
+.join {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.join-zumba-classes-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.join-zumba-classes-container {
+  position: absolute;
+  bottom: 522.2px;
+  left: 321px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: var(--font-irish-grover);
+  display: flex;
+  align-items: flex-end;
+  width: 181.8px;
+  height: 134px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(-35.2deg);
+  transform-origin: 0 0;
+}
+.amazing-place-to-container,
+.amazing-place-to-container1,
+.amazing-place-to1 {
+  position: absolute;
+  top: 1465px;
+  left: 1003px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  display: inline-block;
+  width: 113px;
+  height: 153px;
+}
+.amazing-place-to-container,
+.amazing-place-to-container1 {
+  top: 1683px;
+  left: 1165px;
+  width: 128px;
+  height: 154px;
+}
+.amazing-place-to-container1 {
+  top: 2111px;
+  left: 1041px;
+  width: 229px;
+}
+.download-4-icon {
+  position: absolute;
+  top: 25px;
+  left: 136px;
+  width: 231px;
+  height: 148px;
+  object-fit: cover;
+}
+.line-icon {
+  position: absolute;
+  top: 91px;
+  left: 1107px;
+  max-height: 100%;
+  width: 66px;
+}
+.desktop-1-child2,
+.line-div {
+  position: absolute;
+  top: 123px;
+  left: 1103px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25))
+    drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  border-top: 3px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 70px;
+  height: 0;
+}
+.desktop-1-child2 {
+  top: 60.5px;
+  left: 1103.5px;
+  width: 73px;
+  height: 3px;
+}
+.desktop-1-child3 {
+  position: absolute;
+  top: 2278px;
+  left: 0;
+  background-color: #130505;
+  width: 1393px;
+  height: 245px;
+}
+.span {
+  font-size: var(--font-size-21xl);
+}
+.audience-need-container {
+  position: absolute;
+  top: 0;
+  left: 14.8px;
+  line-height: 150%;
+  display: inline-block;
+  width: 450.4px;
+  height: 60.7px;
+}
+.who-are-the1 {
+  margin-bottom: 0;
+}
+.who-are-the-people-you-are-try {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.who-are-the-container1 {
+  position: absolute;
+  top: 65.6px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 450.4px;
+  height: 182.1px;
+}
+.audience-need-parent {
+  position: absolute;
+  top: 2306px;
+  left: 873px;
+  width: 465.2px;
+  height: 247.7px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-figma-hand);
+}
+.download-3-icon {
+  position: absolute;
+  top: 2329px;
+  left: 83px;
+  width: 157px;
+  height: 115px;
+  object-fit: cover;
+}
+.desktop-1-child4 {
+  position: absolute;
+  top: 1555px;
+  left: 171px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-200);
+  width: 780px;
+  height: 98px;
+}
+.our-registered-members {
+  position: absolute;
+  top: 1589px;
+  left: 221px;
+  font-size: 50px;
+  text-decoration: underline;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: var(--font-inika);
+  color: var(--color-white);
+  text-align: center;
+}
+.desktop-1-child5 {
+  position: absolute;
+  top: 2111px;
+  left: 723px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-200);
+  width: 209px;
+  height: 98px;
+}
+.join1 {
+  position: absolute;
+  top: 2144px;
+  left: 783px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  color: var(--color-white);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2561px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+} */

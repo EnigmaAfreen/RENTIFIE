@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jacques-francois: "Jacques Francois";
+  --font-inika: Inika;
+  --font-inter: Inter;
+  --font-figma-hand: "Figma Hand";
+  --font-irish-grover: "Irish Grover";
+  --font-merriweather: Merriweather;
+  --font-inknut-antiqua: "Inknut Antiqua";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fefcfc;
+  --color-gray-200: #1e1e1e;
+  --color-gainsboro-100: #e6e6e6;
+  --color-whitesmoke: #f7f1f1;
+  --color-black: #000;
+  --color-dimgray: #564a58;
+
+  /* Border radiuses */
+  --br-2xs: 11px;
+}
