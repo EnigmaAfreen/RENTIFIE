@@ -12,7 +12,7 @@ import Buyer from "./AllContent/BuyerFlow";
 const router = createBrowserRouter(
   [
     {
-      path: "/login",
+      path: "/index.html",
       element: <LoginPage />,
     },
     {
