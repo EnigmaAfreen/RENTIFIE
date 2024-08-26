@@ -15,7 +15,7 @@ run npm i
 
 main page
 
-http://localhost:5174/rentify/index.html
+https://enigmaafreen.github.io/RENTIFIE/index.html
 
 
 
