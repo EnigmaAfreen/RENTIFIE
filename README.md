@@ -15,7 +15,8 @@ run npm i
 
 main page
 
-http://localhost:5174/rentify/login
+http://localhost:5174/rentify/index.html
+
 
 
 
